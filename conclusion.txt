@@ -1,0 +1,13 @@
+Conclusion : 
+En conclusion, le Bitcoin marque une rupture technologique fondamentale par l'introduction de la preuve de travail
+echo (Proof of Work) et de la blockchain. Cette innovation permet de resoudre le probleme de la double depense sans tiers
+echo de confiance. C'est un systeme qui a prouve sa resilience face aux attaques informatiques depuis plus de 15 ans.
+
+ Cependant, cette technologie deplace le curseur de la securite. Ce n'est plus le reseau qui est fragile, mais les
+points d'acces : les plateformes, les portefeuilles et surtout l'utilisateur final. La cybersecurite dans l'univers
+des crypto-actifs demande donc une hygiene numerique irreprochable et l'utilisation de solutions de stockage a froid.
+
+ Le Bitcoin reste le pilier central de la finance decentralisee. Son evolution vers des solutions plus ecologiques
+ et plus rapides sera la cle de son adoption massive dans les prochaines annees, tout en restant un laboratoire
+ d'etude permanent pour les experts en securite informatique du monde entier.
+
