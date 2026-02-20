@@ -1,0 +1,33 @@
+Le bitcoin est une monnaie numérique dont le fonctionnement 
+s'appuie sur un protocole informatique crypté et décentralisé, appelé « 
+blockchain », pour valider, sécuriser et enregistrer des transactions 
+entre plusieurs utilisateurs, sans passer par un intermédiaire bancaire.
+
+Le Bitcoin a été créé en 2008 par une personne sous le pseudonyme de Satoshi Nakamoto.
+Le but était de créer un système de paiement décentralisé, sans banque, suite à la crise
+financière. Le premier bloc, appelé "Genesis Block", a été miné le 3 janvier 2009.
+
+Imaginez le Bitcoin comme un immense cahier de comptes commun.
+Au lieu d'avoir une banque qui garde le cahier secret dans son coffre, tout le monde en possède une copie sur son ordinateur.
+Quand Praveen envoie un Bitcoin à Hugo, il le crie à tout le monde.
+Tous les utilisateurs vérifient que Praveen a bien l'argent, puis ils notent la transaction dans leur propre cahier.
+Pour empêcher quelqu'un de tricher (comme dépenser le même billet deux fois),
+des ordinateurs très puissants font des calculs mathématiques pour "cadenasser" les pages du cahier une par une. Une fois cadenassée, impossible de gommer ce qui est écrit !
+
+RISQUES CYBER ET BITCOIN
+1. Gestion des Cles : L'absence d'autorite centrale implique une responsabilite totale. La perte de la cle privee entraine la perte irremediable des actifs. 
+2. Phishing et Social Engineering : Utilisation de faux wallets et sites d'exchange pour capturer les credentials des utilisateurs. 
+3. Menace des 51 pourcent : Risque theorique de prise de controle de la puissance de hachage pour valider des transactions frauduleuses. 
+
+Conclusion : 
+En conclusion, le Bitcoin marque une rupture technologique fondamentale par l'introduction de la preuve de travail
+echo (Proof of Work) et de la blockchain. Cette innovation permet de resoudre le probleme de la double depense sans tiers
+echo de confiance. C'est un systeme qui a prouve sa resilience face aux attaques informatiques depuis plus de 15 ans.
+
+ Cependant, cette technologie deplace le curseur de la securite. Ce n'est plus le reseau qui est fragile, mais les
+points d'acces : les plateformes, les portefeuilles et surtout l'utilisateur final. La cybersecurite dans l'univers
+des crypto-actifs demande donc une hygiene numerique irreprochable et l'utilisation de solutions de stockage a froid.
+
+Le Bitcoin reste le pilier central de la finance decentralisee. Son evolution vers des solutions plus ecologiques
+et plus rapides sera la cle de son adoption massive dans les prochaines annees, tout en restant un laboratoire
+d'etude permanent pour les experts en securite informatique du monde entier.
