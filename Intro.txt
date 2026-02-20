@@ -1,0 +1,7 @@
+Le bitcoin est une monnaie numérique dont le fonctionnement 
+
+s'appuie sur un protocole informatique crypté et décentralisé, appelé « 
+
+blockchain », pour valider, sécuriser et enregistrer des transactions 
+
+entre plusieurs utilisateurs, sans passer par un intermédiaire bancaire.
