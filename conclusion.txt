@@ -1,4 +1,4 @@
---- CONCLUSION SYNTHETIQUE --- 
+CONCLUSION SYNTHETIQUE 
 Le Bitcoin est une preuve de concept reussie pour la decentralisation grace a la blockchain. 
 Bien que securise par le hachage cryptographique, il deplace la faille vers l'utilisateur final. 
 La cybersecurite des crypto-actifs repose desormais sur l'education des porteurs et la protection des points d'acces. 
