@@ -1,0 +1,5 @@
+Imaginez le Bitcoin comme un immense cahier de comptes commun. Au lieu d'avoir une banque qui garde le cahier secret dans son coffre, tout le monde en possède une copie sur son ordinateur.
+
+Quand Praveen envoie un Bitcoin à Hugo, il le crie à tout le monde. Tous les utilisateurs vérifient que Praveen a bien l'argent, puis ils notent la transaction dans leur propre cahier.
+
+Pour empêcher quelqu'un de tricher (comme dépenser le même billet deux fois), des ordinateurs très puissants font des calculs mathématiques pour "cadenasser" les pages du cahier une par une. Une fois cadenassée, impossible de gommer ce qui est écrit !
